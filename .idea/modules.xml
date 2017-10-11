@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rasmataz.iml" filepath="$PROJECT_DIR$/.idea/modules/rasmataz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rasmataz_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rasmataz_main.iml" group="rasmataz" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rasmataz_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rasmataz_test.iml" group="rasmataz" />
+    </modules>
+  </component>
+</project>
